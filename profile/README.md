@@ -9,4 +9,4 @@ This site contains all of the files you'll need for the practical classes on the
 
 The best way to access the projects is to copy them into your personal GitHub account as a repository and then clone this onto the computer you're working on. To do this, click the green "Use this template" button and follow the instructions GitHub provides.
 
-If you're not familiar with git and GitHub, there's a tutorial explaining how we'll use it in the module in [this repository](https://github.com/UoY-IM-AITT/aitt-git-tutorial).
+If you're not familiar with git and GitHub, there's a tutorial explaining how we'll use it in the module in [this repository](https://github.com/UoY-IM-MPIE/mpie-git-tutorial) from the MPIE module that uses a similar approach.
